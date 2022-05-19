@@ -1,4 +1,4 @@
 <Response>
 <Say voice="alice">Hello</Say>
-<Play>http://localhost:8000/storage/test/sample.mp3</Play>
+<Play>https://raw.githubusercontent.com/tuananhnguyen0103/AppVoice/main/sample.mp3</Play>
 </Response>
