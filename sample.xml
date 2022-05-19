@@ -1,4 +1,3 @@
 <Response>
 <Say voice="alice">Chào bạn! Rất vui được làm quen với bố mẹ của bạn</Say>
-<Play>https://raw.githubusercontent.com/tuananhnguyen0103/AppVoice/main/sample.mp3</Play>
 </Response>
